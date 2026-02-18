@@ -25,9 +25,6 @@ __pycache__/
 index.json
 
 
-src/orchestration/*
-src/reasoning/*
-scripts/*
 =======
 # Byte-compiled / optimized / DLL files
 __pycache__/
