@@ -1,0 +1,29 @@
+# Credentials (never commit)
+credentials.json
+config/credentials.json
+# Keep example/template configs if you add them
+# credentials.json is always ignored
+.env
+.env.local
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build / index (optional to ignore)
+index.json
+
+
+src/orchestration/*
+src/reasoning/*
+scripts/*

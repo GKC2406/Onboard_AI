@@ -1,0 +1,25 @@
+# Phase 1: Parser
+pathspec>=0.12.0
+
+# Phase 2: Google Sheet
+gspread>=6.0.0
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.2.0
+
+# Phase 3: Ollama / LLM
+requests>=2.31.0
+ollama>=0.3.0
+
+# Phase 4: Orchestration / Agents
+crewai>=0.56.0
+crewai-tools>=0.13.0
+langchain>=0.3.0
+langchain-ollama>=0.2.0
+langsmith>=0.1.0
+
+# Dev / CLI
+python-dotenv>=1.0.0
+
+LiteLLM
+
